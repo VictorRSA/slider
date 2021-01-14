@@ -9,6 +9,7 @@ married = prompt("Are you married ,(y/n)");
 var getDate = prompt("Please enter your date of birth.")
 
 
+
 var person = {
     firstName:names,
     lastSurname:last_name,    
