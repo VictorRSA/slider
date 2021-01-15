@@ -26,3 +26,11 @@ var person = {
 for(var i = person.length-1;i>=0;i--){
     console.log("Looping backwards")
 };
+
+//this fucntion gets the time in  seconds
+
+// function printTime()  {
+  
+// }
+
+// setInterval(printTime(),1000);

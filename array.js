@@ -32,7 +32,7 @@ console.log(names.pop(names[3]));
 
 console.log(names.indexOf(3)); //test if element is in the array
 //if an element is not in the array ,indexOf returns ===1;
-
+//names.indexOf("searchElement",indexof)
 names[11] = 23;
 names[10]=30
 
@@ -51,4 +51,7 @@ for(var i =0;i<names.length;i++){
     console.log(names[i]);
 
 }
+
+const integers=[1,2,3,4,5,6,7,8,9,10,11,12,13,14];
+console.log(integers);
 
